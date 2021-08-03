@@ -34,4 +34,5 @@ eureka:
 #      exposure:
 #        include: 'bus-refresh'
 
-
+config: 
+  info: vesion0.1
